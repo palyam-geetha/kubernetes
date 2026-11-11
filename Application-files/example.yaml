@@ -1,10 +1,10 @@
 ---
-# An instructor record
-name: Kim Schlesinger
-job: Technical Curriculum Developer
-Location: Colorado, USA
+# An instruction record
+name: Gpalyam
+job: Technical Developer
+Location: Dublin, Ireland
 courses:
-  - Learning Kubernetes 
+  - Kubernetes 
   - Kubernetes Package Management with Helm 
 jobs:
   DigitalOcean: 1.25
@@ -12,5 +12,5 @@ jobs:
   Galvanize: 3 
   titles: 
     - Director of Instruction
-    - Web Development Instructor
+    - Web Development Instruction
     - Instructional Designer 

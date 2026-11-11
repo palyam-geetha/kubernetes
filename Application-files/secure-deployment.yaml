@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: pod-info-container
-        image: kimschles/pod-info-app:latest
+        image: gpalyam/pod-info-app:latest
         resources:
           requests:
             memory: "64Mi"
