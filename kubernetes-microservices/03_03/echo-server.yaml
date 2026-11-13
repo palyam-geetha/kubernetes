@@ -14,7 +14,7 @@ spec:
         app: echo-server
     spec:
       containers:
-      - image: kimschles/echo-server:latest
+      - image: gpalyam/echo-server:latest
         imagePullPolicy: Always
         name: echo-server
         ports:
